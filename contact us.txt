@@ -19,7 +19,7 @@
     <body>
         <h1>Contacts page</h1>
         <ul>
-            <li><a href="home.html">home</a></li>
+            <li><a href="index.html">home</a></li>
             <li><a href="about us">about us</a></li>
             <li><a href="contact us.html">contact us</a></li>
         </ul>
